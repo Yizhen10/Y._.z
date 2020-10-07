@@ -2,8 +2,8 @@
 
 今天複習了上周的迴圈結構。
 
+## for 迴圈
 ```
-# for 迴圈
 
 1. for x in range(1,10):
     print(x)
